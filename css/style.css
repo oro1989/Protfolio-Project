@@ -58,7 +58,7 @@ header, footer, section, div {
 
 .hero {
   width: 95%;
-  padding: 20px 0px;
+  padding: 20px 0;
 }
 
 .hero_image {
